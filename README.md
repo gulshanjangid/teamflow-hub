@@ -369,7 +369,8 @@ Add project screenshots here.
 Example:
 
 ```md
-![Dashboard](./screenshots/dashboard.png)
+<img width="1823" height="783" alt="image" src="https://github.com/user-attachments/assets/9f7ee053-a17c-4303-abad-2ee4d1a2f839" />
+
 ```
 
 ---
@@ -388,7 +389,7 @@ Example:
 
 # 👨‍💻 Author
 
-Your Name
+Gulshan Jangid
 
 ---
 
